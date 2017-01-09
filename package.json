@@ -1,0 +1,24 @@
+{
+  "name": "reacttraining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors",
+    "production": "webpack -p"
+  },
+  "author": "Scott Beaman <scottbeaman1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-react": "^6.16.0",
+    "html-webpack-plugin": "^2.26.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
