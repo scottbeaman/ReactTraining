@@ -1,3 +1,3 @@
 # ReactTraining
 
-react training project
+react training project from experimental branch
